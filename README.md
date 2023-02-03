@@ -1,6 +1,7 @@
 
-# ALX Backend Python 3
-This repository contains all Projects in ALX Backend with Python:
+# ALX Backend Python 
+This repository contains various Python programs that are primarily used to implement backend ideas. It is given to the alx students who focused on backend web development by the alx software engineering program.
+These Projects are:
 
 •	0x00-python_variable_annotations
 
@@ -15,7 +16,7 @@ This repository contains all Projects in ALX Backend with Python:
 
 
 
-## Authors
+## Author
 
 - [@Alexander Takele Mengesha](https://www.github.com/alexa221)
   
@@ -24,12 +25,13 @@ This repository contains all Projects in ALX Backend with Python:
 # Hi, I'm Alexander Takele Mengesha! 👋
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alextakele/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alex_takele21)
+## Author
 
+- [Github](https://www.github.com/alexa221)
+- [Linkedin](https://www.linkedin.com/in/alextakele/)
 
+  
+  
 ## Tech Stack
 
 •	Advanced Python 
